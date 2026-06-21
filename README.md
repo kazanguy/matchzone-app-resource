@@ -1,2 +1,14 @@
 # matchzone-app-resource
-HTML page archive and documentation
+
+页面托管与归档说明
+
+仓库主要用于保存 HTML 页面，便于通过 GitHub Pages 访问。
+
+## 文件说明
+
+- 页面文件直接提交到仓库
+- 仓库说明用于辅助维护
+
+## 说明
+
+本仓库用于页面托管和归档，具体文件以当前仓库内容为准。
